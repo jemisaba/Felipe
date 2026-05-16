@@ -1,0 +1,33 @@
+img {
+    width: 350px ;
+}
+body{
+    text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: navajowhite;
+color: darkred;
+text-align: center;
+}
+nav { justify-content: space-around;
+    display:flex}
+ul{
+    font-size:  35px ;
+}
+nav:hover {
+    transform: rotateX(-250deg) ;
+}
+nav {position: fixed;}
+ul {
+    width:  50px; 
+      height: 60px;
+    background-color :brown
+    text-decoration: overline;
+
+ 
+}
+
+a {
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+}
